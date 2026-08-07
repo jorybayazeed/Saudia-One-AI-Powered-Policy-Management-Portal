@@ -1,0 +1,26 @@
+{
+  "version": "3.0-enterprise",
+  "records": 173,
+  "entities": 49,
+  "relations": 355,
+  "hard_negative_sets": 173,
+  "evaluation_cases": 1067,
+  "chunks": {
+    "atomic": 173,
+    "procedure": 29,
+    "summary": 29
+  },
+  "recommended_files": {
+    "spreadsheet": "IT_OPM_RAG_Enterprise.xlsx",
+    "atomic_index": "chunks_atomic.jsonl",
+    "procedure_index": "chunks_procedure.jsonl",
+    "summary_index": "chunks_summary.jsonl",
+    "entities": "entity_dictionary.jsonl",
+    "relations": "record_relations.jsonl",
+    "evaluation": "evaluation_dataset.jsonl",
+    "hard_negatives": "hard_negatives.jsonl",
+    "router": "query_router_config.json",
+    "retrieval": "enterprise_retrieval_config.json",
+    "feedback": "feedback_schema.json"
+  }
+}

@@ -1,0 +1,14 @@
+import assert from "node:assert/strict";
+import { buildPromptAwareDraft } from "./policyGeneratorService";
+
+const prompt = "Create a policy for remote work attendance tracking for Saudi Academy staff, including daily check-ins, manager approval, privacy, and escalation rules.";
+const draft = buildPromptAwareDraft(prompt, "en");
+
+assert.ok(draft.title.toLowerCase().includes("remote") || draft.title.toLowerCase().includes("attendance"));
+assert.ok(draft.content.includes("Remote Work") || draft.content.includes("remote work"));
+assert.ok(draft.content.includes("Daily check-ins") || draft.content.includes("daily check-ins"));
+assert.ok(draft.content.includes("Manager approval") || draft.content.includes("manager approval"));
+assert.ok(draft.content.includes("Privacy") || draft.content.includes("privacy"));
+assert.ok(draft.content.includes("Escalation") || draft.content.includes("escalation"));
+
+console.log("policy generator regression test passed");

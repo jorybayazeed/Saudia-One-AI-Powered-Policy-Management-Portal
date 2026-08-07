@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "output_schema": {
+    "intent_type": [
+      "lookup",
+      "procedure",
+      "responsibility",
+      "timing",
+      "location",
+      "retention",
+      "target",
+      "troubleshooting",
+      "ambiguous",
+      "out_of_scope"
+    ],
+    "requested_field": [
+      "what",
+      "who",
+      "when",
+      "where",
+      "retention",
+      "target",
+      "full_procedure",
+      ""
+    ],
+    "chunk_preference": {
+      "lookup": "atomic",
+      "procedure": "procedure",
+      "ambiguous": "summary"
+    },
+    "language": [
+      "ar",
+      "en",
+      "mixed"
+    ],
+    "dialect": [
+      "saudi",
+      "gulf",
+      "msa",
+      "unknown"
+    ],
+    "entities": "list of canonical entity IDs",
+    "needs_clarification": "boolean"
+  },
+  "routing_rules": [
+    {
+      "pattern_ar": [
+        "مين",
+        "من المسؤول"
+      ],
+      "intent_type": "responsibility",
+      "requested_field": "who",
+      "chunk_preference": "atomic"
+    },
+    {
+      "pattern_ar": [
+        "متى",
+        "كم مرة",
+        "كل متى"
+      ],
+      "intent_type": "timing",
+      "requested_field": "when",
+      "chunk_preference": "atomic"
+    },
+    {
+      "pattern_ar": [
+        "وين",
+        "أين",
+        "مكان"
+      ],
+      "intent_type": "location",
+      "requested_field": "where",
+      "chunk_preference": "atomic"
+    },
+    {
+      "pattern_ar": [
+        "مدة الاحتفاظ",
+        "متى نحذف"
+      ],
+      "intent_type": "retention",
+      "requested_field": "retention",
+      "chunk_preference": "atomic"
+    },
+    {
+      "pattern_ar": [
+        "كم الهدف",
+        "كم النسبة",
+        "التارجت"
+      ],
+      "intent_type": "target",
+      "requested_field": "target",
+      "chunk_preference": "atomic"
+    },
+    {
+      "pattern_ar": [
+        "كيف",
+        "خطوات",
+        "إجراء"
+      ],
+      "intent_type": "procedure",
+      "requested_field": "full_procedure",
+      "chunk_preference": "procedure"
+    },
+    {
+      "pattern_ar": [
+        "طاح",
+        "ما يشتغل",
+        "معلق",
+        "عطل"
+      ],
+      "intent_type": "troubleshooting",
+      "requested_field": "what",
+      "chunk_preference": "procedure"
+    }
+  ],
+  "ambiguity_rule": "If a broad query matches multiple groups, ask a clarification question using top entity/group options."
+}

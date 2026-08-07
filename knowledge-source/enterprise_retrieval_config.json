@@ -1,0 +1,41 @@
+{
+  "retrieval_pipeline": [
+    "normalize_query_but_preserve_original",
+    "detect_entities_and_router_fields",
+    "dense_search_on_dense_text_top_20",
+    "bm25_search_on_sparse_text_top_20",
+    "exact_alias_lookup",
+    "rrf_fusion",
+    "cross_encoder_rerank_top_12",
+    "relationship_expansion_if_needed",
+    "context_selection_max_4",
+    "answer_from_answer_text_or_answer_fields_only"
+  ],
+  "thresholds": {
+    "reranker_answer_threshold": 0.72,
+    "clarification_margin": 0.06,
+    "abstain_threshold": 0.45,
+    "max_context_records": 4
+  },
+  "boosts": {
+    "exact_title": 2.0,
+    "exact_alias": 1.8,
+    "requested_field_present": 1.5,
+    "same_entity": 1.3,
+    "active_status": 1.1
+  },
+  "reranker_training_files": [
+    "hard_negatives.jsonl",
+    "evaluation_dataset.jsonl"
+  ],
+  "citation_required": true,
+  "citation_fields": [
+    "record_id",
+    "section",
+    "source_page"
+  ],
+  "fallbacks": {
+    "clarify": "حدد النظام أو الإجراء المقصود حتى أجيبك من السجل الصحيح.",
+    "abstain": "لم أجد إجراءً معتمدًا في قاعدة المعرفة يغطي هذا السؤال."
+  }
+}

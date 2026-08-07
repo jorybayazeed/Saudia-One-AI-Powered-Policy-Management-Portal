@@ -1,0 +1,43 @@
+{
+  "version": "2.0",
+  "recommended_retrieval": {
+    "strategy": "hybrid",
+    "dense_field": "embedding_text",
+    "lexical_fields": [
+      "title",
+      "keywords_ar",
+      "keywords_en",
+      "common_typos",
+      "normalized_search_text"
+    ],
+    "filters": [
+      "metadata.status=Active"
+    ],
+    "top_k_dense": 12,
+    "top_k_lexical": 12,
+    "fusion": "reciprocal_rank_fusion",
+    "rerank_top_n": 10,
+    "final_context_records": 4,
+    "exact_match_boost": 2.0,
+    "title_boost": 1.5,
+    "group_expansion": true,
+    "answer_field": "answer_text",
+    "citation_fields": [
+      "metadata.record_id",
+      "metadata.section",
+      "metadata.source_page"
+    ]
+  },
+  "arabic_query_normalization": {
+    "remove_diacritics": true,
+    "unify_alef": true,
+    "unify_ya_alif_maqsura": true,
+    "unify_ta_marbuta": true,
+    "preserve_original_query": true
+  },
+  "guardrails": {
+    "do_not_answer_from_aliases": true,
+    "aliases_are_for_retrieval_only": true,
+    "fallback_ar": "لم أجد إجراءً معتمدًا يغطي هذه الحالة."
+  }
+}

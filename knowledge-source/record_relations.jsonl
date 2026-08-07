@@ -1,0 +1,355 @@
+{"source_record_id": "REC-001", "relation": "same_procedure_group", "target_record_ids": ["REC-002", "REC-003", "REC-004", "REC-005", "REC-006", "REC-007", "REC-008", "REC-173"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-002", "relation": "same_procedure_group", "target_record_ids": ["REC-001", "REC-003", "REC-004", "REC-005", "REC-006", "REC-007", "REC-008", "REC-173"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-003", "relation": "same_procedure_group", "target_record_ids": ["REC-001", "REC-002", "REC-004", "REC-005", "REC-006", "REC-007", "REC-008", "REC-173"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-003", "relation": "scheduled_as", "value": "21 NOV 2024", "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-004", "relation": "same_procedure_group", "target_record_ids": ["REC-001", "REC-002", "REC-003", "REC-005", "REC-006", "REC-007", "REC-008", "REC-173"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-005", "relation": "same_procedure_group", "target_record_ids": ["REC-001", "REC-002", "REC-003", "REC-004", "REC-006", "REC-007", "REC-008", "REC-173"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-006", "relation": "same_procedure_group", "target_record_ids": ["REC-001", "REC-002", "REC-003", "REC-004", "REC-005", "REC-007", "REC-008", "REC-173"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-007", "relation": "same_procedure_group", "target_record_ids": ["REC-001", "REC-002", "REC-003", "REC-004", "REC-005", "REC-006", "REC-008", "REC-173"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-008", "relation": "same_procedure_group", "target_record_ids": ["REC-001", "REC-002", "REC-003", "REC-004", "REC-005", "REC-006", "REC-007", "REC-173"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-008", "relation": "performed_by", "value": "Managing Director", "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-173", "relation": "same_procedure_group", "target_record_ids": ["REC-001", "REC-002", "REC-003", "REC-004", "REC-005", "REC-006", "REC-007", "REC-008"], "retrieval_group_id": "DOC-METADATA"}
+{"source_record_id": "REC-009", "relation": "same_procedure_group", "target_record_ids": ["REC-010", "REC-011", "REC-012", "REC-013", "REC-014", "REC-015", "REC-016", "REC-017", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-010", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-011", "REC-012", "REC-013", "REC-014", "REC-015", "REC-016", "REC-017", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-010", "relation": "performed_by", "value": "Head of Information Technology Department", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-011", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-012", "REC-013", "REC-014", "REC-015", "REC-016", "REC-017", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-011", "relation": "performed_by", "value": "Head of Information Technology Department", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-012", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-011", "REC-013", "REC-014", "REC-015", "REC-016", "REC-017", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-012", "relation": "performed_by", "value": "Head of Information Technology Department", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-013", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-011", "REC-012", "REC-014", "REC-015", "REC-016", "REC-017", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-013", "relation": "performed_by", "value": "IT Section Manager / IT Manager", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-014", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-011", "REC-012", "REC-013", "REC-015", "REC-016", "REC-017", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-014", "relation": "performed_by", "value": "All IT Personnel", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-014", "relation": "scheduled_as", "value": "Ongoing", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-015", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-011", "REC-012", "REC-013", "REC-014", "REC-016", "REC-017", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-015", "relation": "performed_by", "value": "Information Technology Services Staff", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-015", "relation": "scheduled_as", "value": "Ongoing", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-016", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-011", "REC-012", "REC-013", "REC-014", "REC-015", "REC-017", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-016", "relation": "performed_by", "value": "Information Technology Services Staff", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-017", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-011", "REC-012", "REC-013", "REC-014", "REC-015", "REC-016", "REC-018", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-017", "relation": "performed_by", "value": "Bandar Najdi Manager IT D", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-017", "relation": "scheduled_as", "value": "20 NOV 2024", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-018", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-011", "REC-012", "REC-013", "REC-014", "REC-015", "REC-016", "REC-017", "REC-019"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-018", "relation": "performed_by", "value": "Bandar Najdi Manager IT D", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-018", "relation": "scheduled_as", "value": "20 NOV 2024", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-019", "relation": "same_procedure_group", "target_record_ids": ["REC-009", "REC-010", "REC-011", "REC-012", "REC-013", "REC-014", "REC-015", "REC-016", "REC-017", "REC-018"], "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-019", "relation": "performed_by", "value": "Bandar Najdi Manager IT D", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-019", "relation": "scheduled_as", "value": "20 NOV 2024", "retrieval_group_id": "SEC-1.2"}
+{"source_record_id": "REC-020", "relation": "same_procedure_group", "target_record_ids": ["REC-021", "REC-022", "REC-023", "REC-024", "REC-025"], "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-020", "relation": "scheduled_as", "value": "03 AUG 2021", "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-021", "relation": "same_procedure_group", "target_record_ids": ["REC-020", "REC-022", "REC-023", "REC-024", "REC-025"], "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-021", "relation": "scheduled_as", "value": "04 OCT 2021", "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-022", "relation": "same_procedure_group", "target_record_ids": ["REC-020", "REC-021", "REC-023", "REC-024", "REC-025"], "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-022", "relation": "scheduled_as", "value": "20 DEC 2022", "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-023", "relation": "same_procedure_group", "target_record_ids": ["REC-020", "REC-021", "REC-022", "REC-024", "REC-025"], "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-023", "relation": "scheduled_as", "value": "01 DEC 2023", "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-024", "relation": "same_procedure_group", "target_record_ids": ["REC-020", "REC-021", "REC-022", "REC-023", "REC-025"], "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-024", "relation": "scheduled_as", "value": "03 JUN 2024", "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-025", "relation": "same_procedure_group", "target_record_ids": ["REC-020", "REC-021", "REC-022", "REC-023", "REC-024"], "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-025", "relation": "scheduled_as", "value": "21 NOV 2024", "retrieval_group_id": "SEC-1.3"}
+{"source_record_id": "REC-026", "relation": "scheduled_as", "value": "21 NOV 2024", "retrieval_group_id": "SEC-1.4"}
+{"source_record_id": "REC-026", "relation": "measured_against", "value": "Pages 1-40", "retrieval_group_id": "SEC-1.4"}
+{"source_record_id": "REC-027", "relation": "same_procedure_group", "target_record_ids": ["REC-028", "REC-029", "REC-030", "REC-031", "REC-032", "REC-033"], "retrieval_group_id": "SEC-1.5"}
+{"source_record_id": "REC-028", "relation": "same_procedure_group", "target_record_ids": ["REC-027", "REC-029", "REC-030", "REC-031", "REC-032", "REC-033"], "retrieval_group_id": "SEC-1.5"}
+{"source_record_id": "REC-029", "relation": "same_procedure_group", "target_record_ids": ["REC-027", "REC-028", "REC-030", "REC-031", "REC-032", "REC-033"], "retrieval_group_id": "SEC-1.5"}
+{"source_record_id": "REC-030", "relation": "same_procedure_group", "target_record_ids": ["REC-027", "REC-028", "REC-029", "REC-031", "REC-032", "REC-033"], "retrieval_group_id": "SEC-1.5"}
+{"source_record_id": "REC-031", "relation": "same_procedure_group", "target_record_ids": ["REC-027", "REC-028", "REC-029", "REC-030", "REC-032", "REC-033"], "retrieval_group_id": "SEC-1.5"}
+{"source_record_id": "REC-032", "relation": "same_procedure_group", "target_record_ids": ["REC-027", "REC-028", "REC-029", "REC-030", "REC-031", "REC-033"], "retrieval_group_id": "SEC-1.5"}
+{"source_record_id": "REC-033", "relation": "same_procedure_group", "target_record_ids": ["REC-027", "REC-028", "REC-029", "REC-030", "REC-031", "REC-032"], "retrieval_group_id": "SEC-1.5"}
+{"source_record_id": "REC-034", "relation": "same_procedure_group", "target_record_ids": ["REC-035"], "retrieval_group_id": "SEC-1.6"}
+{"source_record_id": "REC-034", "relation": "performed_by", "value": "Saudia Academy IT Employees", "retrieval_group_id": "SEC-1.6"}
+{"source_record_id": "REC-035", "relation": "same_procedure_group", "target_record_ids": ["REC-034"], "retrieval_group_id": "SEC-1.6"}
+{"source_record_id": "REC-035", "relation": "performed_by", "value": "Information Technology Manager", "retrieval_group_id": "SEC-1.6"}
+{"source_record_id": "REC-036", "relation": "same_procedure_group", "target_record_ids": ["REC-037"], "retrieval_group_id": "SEC-1.7"}
+{"source_record_id": "REC-036", "relation": "scheduled_as", "value": "Ongoing", "retrieval_group_id": "SEC-1.7"}
+{"source_record_id": "REC-037", "relation": "same_procedure_group", "target_record_ids": ["REC-036"], "retrieval_group_id": "SEC-1.7"}
+{"source_record_id": "REC-037", "relation": "scheduled_as", "value": "Ongoing", "retrieval_group_id": "SEC-1.7"}
+{"source_record_id": "REC-038", "relation": "same_procedure_group", "target_record_ids": ["REC-039", "REC-040", "REC-041"], "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-039", "relation": "same_procedure_group", "target_record_ids": ["REC-038", "REC-040", "REC-041"], "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-039", "relation": "stored_at", "value": "PSAA Share File/Information Technology/Manual Review Form", "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-039", "relation": "retained_for", "value": "Permanent", "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-040", "relation": "same_procedure_group", "target_record_ids": ["REC-038", "REC-039", "REC-041"], "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-040", "relation": "stored_at", "value": "PSAA Share File/Information Technology/Temporary Revision", "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-040", "relation": "retained_for", "value": "Permanent", "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-041", "relation": "same_procedure_group", "target_record_ids": ["REC-038", "REC-039", "REC-040"], "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-041", "relation": "stored_at", "value": "PSAA Share File/Information Technology/Edition-Temporary Revision Control Form", "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-041", "relation": "retained_for", "value": "Permanent", "retrieval_group_id": "SEC-1.7.1"}
+{"source_record_id": "REC-042", "relation": "same_procedure_group", "target_record_ids": ["REC-043", "REC-044", "REC-045", "REC-046", "REC-047", "REC-048", "REC-049", "REC-050", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-042", "relation": "stored_at", "value": "Saudia Academy Freshdesk Account", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-043", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-044", "REC-045", "REC-046", "REC-047", "REC-048", "REC-049", "REC-050", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-043", "relation": "stored_at", "value": "PSAA Share File", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-044", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-043", "REC-045", "REC-046", "REC-047", "REC-048", "REC-049", "REC-050", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-044", "relation": "stored_at", "value": "PSAA Share File", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-045", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-043", "REC-044", "REC-046", "REC-047", "REC-048", "REC-049", "REC-050", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-045", "relation": "scheduled_as", "value": "Automatic", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-046", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-043", "REC-044", "REC-045", "REC-047", "REC-048", "REC-049", "REC-050", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-046", "relation": "retained_for", "value": "Permanent", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-047", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-043", "REC-044", "REC-045", "REC-046", "REC-048", "REC-049", "REC-050", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-047", "relation": "performed_by", "value": "All IT Staff and Management", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-047", "relation": "scheduled_as", "value": "Any time", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-048", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-043", "REC-044", "REC-045", "REC-046", "REC-047", "REC-049", "REC-050", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-048", "relation": "retained_for", "value": "No disposal", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-049", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-043", "REC-044", "REC-045", "REC-046", "REC-047", "REC-048", "REC-050", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-049", "relation": "stored_at", "value": "PSAA Share File/Information Technology/Forms", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-049", "relation": "retained_for", "value": "Permanent", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-050", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-043", "REC-044", "REC-045", "REC-046", "REC-047", "REC-048", "REC-049", "REC-051"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-050", "relation": "stored_at", "value": "PSAA Share File/Information Technology/IT Records/IT Meetings Records", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-050", "relation": "retained_for", "value": "Permanent", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-051", "relation": "same_procedure_group", "target_record_ids": ["REC-042", "REC-043", "REC-044", "REC-045", "REC-046", "REC-047", "REC-048", "REC-049", "REC-050"], "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-051", "relation": "stored_at", "value": "Saudia Academy Account in Freshdesk", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-051", "relation": "retained_for", "value": "Permanent", "retrieval_group_id": "SEC-1.7.2"}
+{"source_record_id": "REC-052", "relation": "same_procedure_group", "target_record_ids": ["REC-053", "REC-054"], "retrieval_group_id": "SEC-1.8"}
+{"source_record_id": "REC-053", "relation": "same_procedure_group", "target_record_ids": ["REC-052", "REC-054"], "retrieval_group_id": "SEC-1.8"}
+{"source_record_id": "REC-054", "relation": "same_procedure_group", "target_record_ids": ["REC-052", "REC-053"], "retrieval_group_id": "SEC-1.8"}
+{"source_record_id": "REC-056", "relation": "same_procedure_group", "target_record_ids": ["REC-057"], "retrieval_group_id": "SEC-1.10"}
+{"source_record_id": "REC-057", "relation": "same_procedure_group", "target_record_ids": ["REC-056"], "retrieval_group_id": "SEC-1.10"}
+{"source_record_id": "REC-058", "relation": "performed_by", "value": "IT Department", "retrieval_group_id": "CH-2"}
+{"source_record_id": "REC-059", "relation": "same_procedure_group", "target_record_ids": ["REC-060", "REC-061", "REC-062", "REC-063"], "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-059", "relation": "performed_by", "value": "IT Department", "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-060", "relation": "same_procedure_group", "target_record_ids": ["REC-059", "REC-061", "REC-062", "REC-063"], "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-060", "relation": "performed_by", "value": "IT Department", "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-061", "relation": "same_procedure_group", "target_record_ids": ["REC-059", "REC-060", "REC-062", "REC-063"], "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-061", "relation": "performed_by", "value": "IT Department", "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-061", "relation": "scheduled_as", "value": "For all IT activities", "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-062", "relation": "same_procedure_group", "target_record_ids": ["REC-059", "REC-060", "REC-061", "REC-063"], "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-063", "relation": "same_procedure_group", "target_record_ids": ["REC-059", "REC-060", "REC-061", "REC-062"], "retrieval_group_id": "SEC-2.1"}
+{"source_record_id": "REC-064", "relation": "same_procedure_group", "target_record_ids": ["REC-065", "REC-066", "REC-067", "REC-068", "REC-069", "REC-070", "REC-071"], "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-065", "relation": "same_procedure_group", "target_record_ids": ["REC-064", "REC-066", "REC-067", "REC-068", "REC-069", "REC-070", "REC-071"], "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-066", "relation": "same_procedure_group", "target_record_ids": ["REC-064", "REC-065", "REC-067", "REC-068", "REC-069", "REC-070", "REC-071"], "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-066", "relation": "performed_by", "value": "Management", "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-067", "relation": "same_procedure_group", "target_record_ids": ["REC-064", "REC-065", "REC-066", "REC-068", "REC-069", "REC-070", "REC-071"], "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-068", "relation": "same_procedure_group", "target_record_ids": ["REC-064", "REC-065", "REC-066", "REC-067", "REC-069", "REC-070", "REC-071"], "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-069", "relation": "same_procedure_group", "target_record_ids": ["REC-064", "REC-065", "REC-066", "REC-067", "REC-068", "REC-070", "REC-071"], "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-069", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-069", "relation": "scheduled_as", "value": "Measured from ticket creation", "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-069", "relation": "measured_against", "value": "Within 2 working days", "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-070", "relation": "same_procedure_group", "target_record_ids": ["REC-064", "REC-065", "REC-066", "REC-067", "REC-068", "REC-069", "REC-071"], "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-070", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-070", "relation": "scheduled_as", "value": "Per year", "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-070", "relation": "measured_against", "value": "Minimum 97 percent", "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-071", "relation": "same_procedure_group", "target_record_ids": ["REC-064", "REC-065", "REC-066", "REC-067", "REC-068", "REC-069", "REC-070"], "retrieval_group_id": "SEC-2.1.1"}
+{"source_record_id": "REC-072", "relation": "same_procedure_group", "target_record_ids": ["REC-073", "REC-074", "REC-075"], "retrieval_group_id": "SEC-2.2"}
+{"source_record_id": "REC-072", "relation": "performed_by", "value": "Director, Maintenance and Support Services", "retrieval_group_id": "SEC-2.2"}
+{"source_record_id": "REC-073", "relation": "same_procedure_group", "target_record_ids": ["REC-072", "REC-074", "REC-075"], "retrieval_group_id": "SEC-2.2"}
+{"source_record_id": "REC-073", "relation": "performed_by", "value": "Manager, Information Technology", "retrieval_group_id": "SEC-2.2"}
+{"source_record_id": "REC-074", "relation": "same_procedure_group", "target_record_ids": ["REC-072", "REC-073", "REC-075"], "retrieval_group_id": "SEC-2.2"}
+{"source_record_id": "REC-074", "relation": "performed_by", "value": "Sec. Manager, Information Technology", "retrieval_group_id": "SEC-2.2"}
+{"source_record_id": "REC-075", "relation": "same_procedure_group", "target_record_ids": ["REC-072", "REC-073", "REC-074"], "retrieval_group_id": "SEC-2.2"}
+{"source_record_id": "REC-075", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.2"}
+{"source_record_id": "REC-076", "relation": "performed_by", "value": "IT Personnel", "retrieval_group_id": "SEC-2.3"}
+{"source_record_id": "REC-077", "relation": "same_procedure_group", "target_record_ids": ["REC-078"], "retrieval_group_id": "SEC-2.4"}
+{"source_record_id": "REC-078", "relation": "same_procedure_group", "target_record_ids": ["REC-077"], "retrieval_group_id": "SEC-2.4"}
+{"source_record_id": "REC-079", "relation": "same_procedure_group", "target_record_ids": ["REC-080", "REC-081", "REC-082", "REC-083", "REC-084", "REC-085", "REC-086", "REC-087", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-080", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-081", "REC-082", "REC-083", "REC-084", "REC-085", "REC-086", "REC-087", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-081", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-082", "REC-083", "REC-084", "REC-085", "REC-086", "REC-087", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-081", "relation": "performed_by", "value": "Manager IT", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-082", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-083", "REC-084", "REC-085", "REC-086", "REC-087", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-082", "relation": "performed_by", "value": "All Other IT Team Members", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-083", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-084", "REC-085", "REC-086", "REC-087", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-084", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-083", "REC-085", "REC-086", "REC-087", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-084", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-084", "relation": "scheduled_as", "value": "Continuously", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-085", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-083", "REC-084", "REC-086", "REC-087", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-085", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-085", "relation": "scheduled_as", "value": "Continuously", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-086", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-083", "REC-084", "REC-085", "REC-087", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-086", "relation": "performed_by", "value": "Beneficiary Staff or Trainee", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-087", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-083", "REC-084", "REC-085", "REC-086", "REC-088", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-088", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-083", "REC-084", "REC-085", "REC-086", "REC-087", "REC-089", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-088", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-089", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-083", "REC-084", "REC-085", "REC-086", "REC-087", "REC-088", "REC-090", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-089", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-090", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-083", "REC-084", "REC-085", "REC-086", "REC-087", "REC-088", "REC-089", "REC-091"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-090", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-091", "relation": "same_procedure_group", "target_record_ids": ["REC-079", "REC-080", "REC-081", "REC-082", "REC-083", "REC-084", "REC-085", "REC-086", "REC-087", "REC-088", "REC-089", "REC-090"], "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-091", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.5"}
+{"source_record_id": "REC-092", "relation": "same_procedure_group", "target_record_ids": ["REC-093", "REC-094", "REC-095", "REC-096", "REC-097", "REC-098", "REC-099", "REC-100", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-093", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-094", "REC-095", "REC-096", "REC-097", "REC-098", "REC-099", "REC-100", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-094", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-093", "REC-095", "REC-096", "REC-097", "REC-098", "REC-099", "REC-100", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-095", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-093", "REC-094", "REC-096", "REC-097", "REC-098", "REC-099", "REC-100", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-096", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-093", "REC-094", "REC-095", "REC-097", "REC-098", "REC-099", "REC-100", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-097", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-093", "REC-094", "REC-095", "REC-096", "REC-098", "REC-099", "REC-100", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-098", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-093", "REC-094", "REC-095", "REC-096", "REC-097", "REC-099", "REC-100", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-099", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-093", "REC-094", "REC-095", "REC-096", "REC-097", "REC-098", "REC-100", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-100", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-093", "REC-094", "REC-095", "REC-096", "REC-097", "REC-098", "REC-099", "REC-101"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-100", "relation": "performed_by", "value": "IT Department", "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-101", "relation": "same_procedure_group", "target_record_ids": ["REC-092", "REC-093", "REC-094", "REC-095", "REC-096", "REC-097", "REC-098", "REC-099", "REC-100"], "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-101", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-101", "relation": "stored_at", "value": "PSAA Share File/Information Technology", "retrieval_group_id": "SEC-2.6"}
+{"source_record_id": "REC-102", "relation": "same_procedure_group", "target_record_ids": ["REC-103", "REC-104"], "retrieval_group_id": "SEC-2.7"}
+{"source_record_id": "REC-103", "relation": "same_procedure_group", "target_record_ids": ["REC-102", "REC-104"], "retrieval_group_id": "SEC-2.7"}
+{"source_record_id": "REC-103", "relation": "stored_at", "value": "Communication Room First Floor Building 1", "retrieval_group_id": "SEC-2.7"}
+{"source_record_id": "REC-104", "relation": "same_procedure_group", "target_record_ids": ["REC-102", "REC-103"], "retrieval_group_id": "SEC-2.7"}
+{"source_record_id": "REC-104", "relation": "performed_by", "value": "IT Department", "retrieval_group_id": "SEC-2.7"}
+{"source_record_id": "REC-105", "relation": "same_procedure_group", "target_record_ids": ["REC-106", "REC-107", "REC-108", "REC-109", "REC-110"], "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-106", "relation": "same_procedure_group", "target_record_ids": ["REC-105", "REC-107", "REC-108", "REC-109", "REC-110"], "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-106", "relation": "scheduled_as", "value": "As soon as possible", "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-107", "relation": "same_procedure_group", "target_record_ids": ["REC-105", "REC-106", "REC-108", "REC-109", "REC-110"], "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-107", "relation": "scheduled_as", "value": "As soon as possible", "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-108", "relation": "same_procedure_group", "target_record_ids": ["REC-105", "REC-106", "REC-107", "REC-109", "REC-110"], "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-108", "relation": "scheduled_as", "value": "When vendor support is needed", "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-109", "relation": "same_procedure_group", "target_record_ids": ["REC-105", "REC-106", "REC-107", "REC-108", "REC-110"], "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-109", "relation": "scheduled_as", "value": "Immediately", "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-109", "relation": "measured_against", "value": "More than 1 day", "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-110", "relation": "same_procedure_group", "target_record_ids": ["REC-105", "REC-106", "REC-107", "REC-108", "REC-109"], "retrieval_group_id": "PROC-2.8"}
+{"source_record_id": "REC-111", "relation": "same_procedure_group", "target_record_ids": ["REC-112", "REC-113", "REC-114", "REC-115", "REC-116", "REC-117", "REC-118", "REC-119", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-111", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-112", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-113", "REC-114", "REC-115", "REC-116", "REC-117", "REC-118", "REC-119", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-112", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-113", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-114", "REC-115", "REC-116", "REC-117", "REC-118", "REC-119", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-113", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-114", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-113", "REC-115", "REC-116", "REC-117", "REC-118", "REC-119", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-114", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-115", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-113", "REC-114", "REC-116", "REC-117", "REC-118", "REC-119", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-115", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-116", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-113", "REC-114", "REC-115", "REC-117", "REC-118", "REC-119", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-116", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-117", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-113", "REC-114", "REC-115", "REC-116", "REC-118", "REC-119", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-117", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-118", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-113", "REC-114", "REC-115", "REC-116", "REC-117", "REC-119", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-118", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-119", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-113", "REC-114", "REC-115", "REC-116", "REC-117", "REC-118", "REC-120", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-119", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-120", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-113", "REC-114", "REC-115", "REC-116", "REC-117", "REC-118", "REC-119", "REC-121"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-120", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-121", "relation": "same_procedure_group", "target_record_ids": ["REC-111", "REC-112", "REC-113", "REC-114", "REC-115", "REC-116", "REC-117", "REC-118", "REC-119", "REC-120"], "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-121", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.1"}
+{"source_record_id": "REC-122", "relation": "same_procedure_group", "target_record_ids": ["REC-123", "REC-124", "REC-125", "REC-126", "REC-127", "REC-128", "REC-129", "REC-130", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-122", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-123", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-124", "REC-125", "REC-126", "REC-127", "REC-128", "REC-129", "REC-130", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-123", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-124", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-125", "REC-126", "REC-127", "REC-128", "REC-129", "REC-130", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-124", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-125", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-126", "REC-127", "REC-128", "REC-129", "REC-130", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-125", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-126", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-127", "REC-128", "REC-129", "REC-130", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-126", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-127", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-126", "REC-128", "REC-129", "REC-130", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-127", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-128", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-126", "REC-127", "REC-129", "REC-130", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-128", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-129", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-126", "REC-127", "REC-128", "REC-130", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-129", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-130", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-126", "REC-127", "REC-128", "REC-129", "REC-131", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-130", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-131", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-126", "REC-127", "REC-128", "REC-129", "REC-130", "REC-132", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-131", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-132", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-126", "REC-127", "REC-128", "REC-129", "REC-130", "REC-131", "REC-133", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-132", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-133", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-126", "REC-127", "REC-128", "REC-129", "REC-130", "REC-131", "REC-132", "REC-134"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-133", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-134", "relation": "same_procedure_group", "target_record_ids": ["REC-122", "REC-123", "REC-124", "REC-125", "REC-126", "REC-127", "REC-128", "REC-129", "REC-130", "REC-131", "REC-132", "REC-133"], "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-134", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-3.2"}
+{"source_record_id": "REC-135", "relation": "same_procedure_group", "target_record_ids": ["REC-136", "REC-137", "REC-138", "REC-139", "REC-140", "REC-141", "REC-142"], "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-135", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-135", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-136", "relation": "same_procedure_group", "target_record_ids": ["REC-135", "REC-137", "REC-138", "REC-139", "REC-140", "REC-141", "REC-142"], "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-136", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-136", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-137", "relation": "same_procedure_group", "target_record_ids": ["REC-135", "REC-136", "REC-138", "REC-139", "REC-140", "REC-141", "REC-142"], "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-137", "relation": "stored_at", "value": "PSAA Share File/Information Technology/Forms", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-138", "relation": "same_procedure_group", "target_record_ids": ["REC-135", "REC-136", "REC-137", "REC-139", "REC-140", "REC-141", "REC-142"], "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-138", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-138", "relation": "scheduled_as", "value": "Beginning of each month", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-139", "relation": "same_procedure_group", "target_record_ids": ["REC-135", "REC-136", "REC-137", "REC-138", "REC-140", "REC-141", "REC-142"], "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-139", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-139", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-140", "relation": "same_procedure_group", "target_record_ids": ["REC-135", "REC-136", "REC-137", "REC-138", "REC-139", "REC-141", "REC-142"], "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-140", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-140", "relation": "stored_at", "value": "PSAA Share File/Information Technology/EDRAK Maintenance Routine Card Records", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-140", "relation": "scheduled_as", "value": "End of each month", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-141", "relation": "same_procedure_group", "target_record_ids": ["REC-135", "REC-136", "REC-137", "REC-138", "REC-139", "REC-140", "REC-142"], "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-141", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-142", "relation": "same_procedure_group", "target_record_ids": ["REC-135", "REC-136", "REC-137", "REC-138", "REC-139", "REC-140", "REC-141"], "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-142", "relation": "performed_by", "value": "SA IT Personnel", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-142", "relation": "stored_at", "value": "Communication Room First Floor", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-142", "relation": "scheduled_as", "value": "Ongoing", "retrieval_group_id": "PROC-4"}
+{"source_record_id": "REC-143", "relation": "same_procedure_group", "target_record_ids": ["REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-143", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-143", "relation": "stored_at", "value": "CBT Labs Second Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-143", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-144", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-144", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-144", "relation": "stored_at", "value": "CBT Labs Second Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-144", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-145", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-145", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-145", "relation": "stored_at", "value": "CBT Labs Second Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-145", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-146", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-146", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-146", "relation": "stored_at", "value": "Communication Room First Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-146", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-147", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-147", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-147", "relation": "stored_at", "value": "Communication Room First Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-147", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-147", "relation": "measured_against", "value": "All green and no red light", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-148", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-148", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-148", "relation": "stored_at", "value": "Communication Room First Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-148", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-149", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-149", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-149", "relation": "stored_at", "value": "Communication Room First Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-149", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-149", "relation": "measured_against", "value": "18-24 degrees Celsius", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-150", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-151", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-150", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-150", "relation": "stored_at", "value": "Communication Room First Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-150", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-151", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-152", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-151", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-151", "relation": "stored_at", "value": "Communication Room First Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-151", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-152", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-153", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-152", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-152", "relation": "stored_at", "value": "Communication Room First Floor", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-152", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-153", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-154", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-153", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-153", "relation": "stored_at", "value": "C Drive", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-153", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-154", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-155"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-154", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-154", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-154", "relation": "measured_against", "value": "Current date", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-155", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-155", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-155", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-156", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-156", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-156", "relation": "stored_at", "value": "H3 SQL Virtual Machine", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-156", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-157", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-157", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-157", "relation": "stored_at", "value": "External Hard Drive", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-157", "relation": "scheduled_as", "value": "Daily", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-158", "relation": "same_procedure_group", "target_record_ids": ["REC-143", "REC-144", "REC-145", "REC-146", "REC-147", "REC-148", "REC-149", "REC-150", "REC-151", "REC-152", "REC-153", "REC-154"], "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-158", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.1"}
+{"source_record_id": "REC-159", "relation": "same_procedure_group", "target_record_ids": ["REC-160"], "retrieval_group_id": "PROC-4.2"}
+{"source_record_id": "REC-159", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.2"}
+{"source_record_id": "REC-159", "relation": "scheduled_as", "value": "Monthly", "retrieval_group_id": "PROC-4.2"}
+{"source_record_id": "REC-160", "relation": "same_procedure_group", "target_record_ids": ["REC-159"], "retrieval_group_id": "PROC-4.2"}
+{"source_record_id": "REC-160", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "PROC-4.2"}
+{"source_record_id": "REC-160", "relation": "stored_at", "value": "H3 LMS Virtual Machine", "retrieval_group_id": "PROC-4.2"}
+{"source_record_id": "REC-160", "relation": "scheduled_as", "value": "Monthly", "retrieval_group_id": "PROC-4.2"}
+{"source_record_id": "REC-162", "relation": "same_procedure_group", "target_record_ids": ["REC-163", "REC-164", "REC-165", "REC-166", "REC-167", "REC-168", "REC-169", "REC-170", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-163", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-164", "REC-165", "REC-166", "REC-167", "REC-168", "REC-169", "REC-170", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-164", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-165", "REC-166", "REC-167", "REC-168", "REC-169", "REC-170", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-164", "relation": "scheduled_as", "value": "Week 1", "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-165", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-164", "REC-166", "REC-167", "REC-168", "REC-169", "REC-170", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-165", "relation": "scheduled_as", "value": "Week 2", "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-166", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-164", "REC-165", "REC-167", "REC-168", "REC-169", "REC-170", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-166", "relation": "scheduled_as", "value": "Week 3", "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-167", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-164", "REC-165", "REC-166", "REC-168", "REC-169", "REC-170", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-167", "relation": "scheduled_as", "value": "Week 4", "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-168", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-164", "REC-165", "REC-166", "REC-167", "REC-169", "REC-170", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-168", "relation": "scheduled_as", "value": "Monthly", "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-169", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-164", "REC-165", "REC-166", "REC-167", "REC-168", "REC-170", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-169", "relation": "measured_against", "value": "D D M M Y Y", "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-170", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-164", "REC-165", "REC-166", "REC-167", "REC-168", "REC-169", "REC-171", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-170", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-171", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-164", "REC-165", "REC-166", "REC-167", "REC-168", "REC-169", "REC-170", "REC-172"], "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-171", "relation": "performed_by", "value": "IT Specialist", "retrieval_group_id": "FORM-5.2.1"}
+{"source_record_id": "REC-172", "relation": "same_procedure_group", "target_record_ids": ["REC-162", "REC-163", "REC-164", "REC-165", "REC-166", "REC-167", "REC-168", "REC-169", "REC-170", "REC-171"], "retrieval_group_id": "FORM-5.2.1"}

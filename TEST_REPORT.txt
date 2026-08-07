@@ -1,0 +1,29 @@
+Saudia One IT Enterprise v1.8 — Verification Report
+
+BASE INTERFACE
+- Based on the v1.7 interface.
+- Compiled CSS SHA-256 is unchanged:
+  f9b5c6e9d8a841a52435896c86440287b3426b941dd03d2d983855ee844ce596
+- dist/index.html SHA-256 is unchanged:
+  3b5c3c34de4928f903815560e441a929acb098ef9d4a218e3942fa90049a3ec2
+- No CSS, page-order, menu, button, or layout redesign was introduced.
+
+RETRIEVAL AND CONTEXT REGRESSION
+- Critical test suite: 43/43 PASS.
+- Includes Arabic, Jeddah colloquial Arabic, English, and mixed-language cases.
+- Includes all observed failure classes: IT email, Freshdesk link, ticket workflow, device/network routing, EDRAK failure and backup server, daily/monthly backup, backup responsibility, TMS path creation, unresolved tickets, response time, clarification, refusal, and contextual follow-ups.
+
+TECHNICAL CHECKS
+- itRagService isolated TypeScript type-check: PASS.
+- App.tsx and itRagService.ts TypeScript syntax transpilation: PASS.
+- Compiled JavaScript syntax (`node --check`): PASS on macOS and Windows packages.
+- Static local server check: PASS.
+- index.html, JavaScript, CSS, and source PDF: HTTP 200.
+
+GROUNDING
+- Answers remain limited to approved answer fields and structured steps.
+- Explicit entity mismatch is blocked.
+- Out-of-scope refusal remains enabled.
+
+NOTE
+- The suite verifies the known critical scenarios and regression cases. No software test can guarantee every possible human phrasing, so future user feedback should continue to be added to the regression set.

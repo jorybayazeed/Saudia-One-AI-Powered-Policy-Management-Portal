@@ -1,0 +1,30 @@
+{
+  "fields": {
+    "timestamp": "ISO-8601",
+    "session_id": "string",
+    "query": "string",
+    "normalized_query": "string",
+    "router_output": "object",
+    "retrieved_record_ids": "array",
+    "reranked_record_ids": "array",
+    "selected_record_ids": "array",
+    "answer": "string",
+    "citations": "array",
+    "user_feedback": [
+      "correct",
+      "partially_correct",
+      "incorrect",
+      "no_answer_expected"
+    ],
+    "failure_reason": [
+      "wrong_retrieval",
+      "missing_knowledge",
+      "ambiguous_query",
+      "bad_answer_synthesis",
+      "citation_error",
+      "other"
+    ],
+    "reviewed_expected_record_ids": "array"
+  },
+  "use": "Append reviewed failures and corrections to the evaluation set and query-expansion index."
+}
